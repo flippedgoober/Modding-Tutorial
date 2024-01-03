@@ -42,7 +42,12 @@ Now, navigate back to your other File Explorer tab (Downloads>BepInEx-BepInExPac
 <br>
 
 Now your Lethal Company install location looks like this:
-![BdKq2pqR4N](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/ad59d073-12b6-4213-9191-dab91e68f21f)
+![BdKq2pqR4N](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/ad59d073-12b6-4213-9191-dab91e68f21f) <br>
+<br>
+
+Now boot the game once as normal, then you can exit after you click to launch game online.
+
+
 
 
 
