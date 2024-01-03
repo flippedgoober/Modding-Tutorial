@@ -37,7 +37,17 @@ Now we have arrived at our Lethal Company install location. Your page now looks 
 ![oFli4bPOjJ](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/fe5d4f05-bbf2-4100-9115-3d2153ae3ee6) <br>
 <br>
 
-Now, navigate back to your other File Explorer tab (Downloads>BepInEx-BepInExPack-5.4.2100.zip>BepInExPack). 
+Now, navigate back to your other File Explorer tab (Downloads>BepInEx-BepInExPack-5.4.2100.zip>BepInExPack). Now copy the file contents (3 items: BepInEx, doorstop_config.ini, winhttp.dll) and paste them into your Lethal Company install location.
+![B89TiQdlzt](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/b8417211-73c7-4946-9c23-0e354e89ad9c) <br>
+<br>
+
+Now your Lethal Company install location looks like this:
+![BdKq2pqR4N](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/ad59d073-12b6-4213-9191-dab91e68f21f)
+
+
+
+
+
 
 
 
