@@ -9,4 +9,8 @@
   <br>
   Open File explorer and navigate to "Downloads" <br>
   Locate the BepInExPack Mod we just downloaded <br>
-![p7O7bV8Xpy](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/72c3a68c-c83c-4346-a73a-a60411c14d30)
+![p7O7bV8Xpy](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/72c3a68c-c83c-4346-a73a-a60411c14d30) <br>
+<br>
+Now double click it and open it. Your page now looks like the following screenshot: <br>
+![5ofAzEs1Qk](https://github.com/flippedgoober/Modding-Tutorial/assets/153241240/8ed180b0-58bd-43df-afd3-d6f3f856c72f) <br>
+
